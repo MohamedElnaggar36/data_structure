@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1640030535 source:c:\users\mohamed elnaggar\desktop\sort_objects\main.cpp
+	<iostream>
+	<string.h>
+
+1640031844 source:c:\users\mohamed elnaggar\desktop\algorisms\lab 1\sort_objects\main.cpp
+	<iostream>
+	<string.h>
+

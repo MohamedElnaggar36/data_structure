@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1640170126 source:c:\users\mohamed elnaggar\desktop\dubbly_linkedlist\main.cpp
+	<iostream>
+	<string.h>
+
+1640286319 source:c:\users\mohamed elnaggar\desktop\algorisms\lab\dubbly_linkedlist\main.cpp
+	<iostream>
+	<string.h>
+
